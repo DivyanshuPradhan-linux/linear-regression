@@ -1,7 +1,7 @@
 # linear-regression
 # Linear Regression Task
 
-This repository contains Python code to perform simple and multiple linear regression, as outlined in Task 3 of the AI & ML Internship.
+
 
 ## Objective
 
